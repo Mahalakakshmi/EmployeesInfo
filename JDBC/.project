@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JDBC</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.settings/Microsoft JDBC Driver 6.0 for SQL Server</name>
+			<type>2</type>
+			<location>C:/Microsoft JDBC Driver 6.0 for SQL Server</location>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>jdbc6</name>
+			<value>file:/C:/Microsoft%20JDBC%20Driver%206.0%20for%20SQL%20Server</value>
+		</variable>
+	</variableList>
+</projectDescription>
