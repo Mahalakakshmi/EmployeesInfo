@@ -10,7 +10,7 @@ public class JdbcConnection {
 	
 	public static void main (String [] args) throws SQLException{
 		
-		String connectionUrl = "jdbc:sqlserver://localhost:49164;" + "databaseName=Employee;integratedSecurity=true;";
+		String connectionUrl = "jdbc:sqlserver://localhost:xxxxx;" + "databaseName=Employee;integratedSecurity=true;";
 		Connection con = null;
 		Statement stmt = null;
 		ResultSet  rs = null;
